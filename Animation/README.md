@@ -1,9 +1,16 @@
 
 # Basic Animation
 
-UIView.animate
-Timer.scheduledTimer
-
+## What? 
 SliderIn /  SliderOut
-
 FadeIn / FadeOut
+
+
+
+
+
+## Use
+
+- UIView.animate
+- Timer.scheduledTimer
+
